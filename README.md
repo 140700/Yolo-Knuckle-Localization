@@ -1,7 +1,7 @@
 # YOLOv5 Object Detection
 
 ## Description
-This project demonstrates the implementation of the YOLOv5 object detection model. It includes a Google Colab notebook for training and evaluating the model on a custom dataset.
+This project demonstrates the implementation of the YOLOv5 object detection model. It includes a Google Colab notebook for training and evaluating the model on a custom knuckle dataset.
 
 ## Table of Contents
 - [Installation](#installation)
